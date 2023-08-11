@@ -1,1 +1,3 @@
 Ornke dosya Olusturuldu.
+
+İkinci commiti gitHuba yüklemek için bu satır yazılıyor.
